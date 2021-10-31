@@ -78,7 +78,7 @@ void intro(void){
     hidecursor();
     getch();
     gotoxy(2,12);
-    printf("Codigo fonte disponivel em HTTPS://");
+    printf("Codigo fonte disponivel em https://github.com/DenTod-games-e-jogos/JAM-Rogue");
     gotoxy(2,14);
     printf("Livre para todos preservarem a memoria!");
     hidecursor();
