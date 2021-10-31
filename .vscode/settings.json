@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "iniciajogo.h": "c",
+        "conio.h": "c",
+        "varglobal.h": "c",
+        "inicio.h": "c",
+        "getinput.h": "c",
+        "heroi.h": "c",
+        "mapa.h": "c"
+    }
+}
