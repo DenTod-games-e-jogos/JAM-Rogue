@@ -1,1 +1,1 @@
-{"buildTargets":[],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[]},"fileIndex":[]}}
+{"buildTargets":["all","auxiliares.o","carregajogo.o","clear","gameover.o","getinput.o","iniciajogo.o","inicio.o","main.o","mainmenu.o","mapa.o"],"launchTargets":["e:\\History Rogue\\JAM-Rogue>JAM-Rogue.exe()"],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[]},"fileIndex":[]}}

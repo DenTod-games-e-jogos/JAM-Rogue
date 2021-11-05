@@ -8,5 +8,6 @@
         "getinput.h": "c",
         "heroi.h": "c",
         "mapa.h": "c"
-    }
+    },
+    "makefile.makePath": "mingw32-make.exe"
 }
